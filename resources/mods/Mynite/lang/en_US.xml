@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+	<comment>English (en_US) Localization File</comment>
+	<entry key="tile.Mynite Ore.name">Mynite Ore</entry>
+	<entry key="item.Chunk Of Mynite.name">Chunk Of Mynite</entry>
+	<entry key="item.Piece Of Mynite.name">Piece Of Mynite</entry>
+	<entry key="item.Mynite Ingot.name">Mynite Ingot</entry>
+	<entry key="item.Mynite Pickaxe.name">Mynite Pickaxe</entry>
+	<entry key="item.Mynite Axe.name">Mynite Axe</entry>
+	<entry key="item.Mynite Shovel.name">Mynite Shovel</entry>
+	<entry key="item.Mynite Sword.name">Mynite Sword</entry>
+	<entry key="itemGroup.Mynite">Mynite</entry>
+
+</properties>
